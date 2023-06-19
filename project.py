@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 from datetime import datetime
 import snscrape.modules.twitter as sntwitter
